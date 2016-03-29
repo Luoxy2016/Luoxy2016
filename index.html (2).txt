@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+</head>
+<body>
+<p><img src="http://p0.so.qhimg.com/t014be4c72425113a30.jpg" alt="花朵"></p>
+</body>
+</html>
+<<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+</head>
+<body>
+
+</body>
+</html>>
+
